@@ -1,5 +1,7 @@
 # Quiz Platform
 
+Deployed Link: https://quizapp1122.netlify.app/
+
 A modern, interactive quiz application built with React and TypeScript. Test your knowledge across various subjects with instant feedback and track your progress over time.
 
 
